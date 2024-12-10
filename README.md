@@ -56,19 +56,16 @@ $flutter pub get
 این ریپازیتوری‌ها با داشتن پروژه‌های متنوع و آموزش‌های مرتبط، منابع فوق‌العاده‌ای برای یادگیری و گسترش مهارت‌های Flutter هستند.
 
 
+https://github.com/asepscareer/ebook-reader
 
 
 https://github.com/CloudWzard/EbookApp
-
-https://github.com/asepscareer/ebook-reader
 
 https://github.com/rishi115/flutter-Ebook-app
 
 https://github.com/Supriyanto6543/flutter_ebook_app
 
 https://github.com/Sixtus6/Ebook
-
-https://github.com/asepscareer/ebook-reader
 
 https://github.com/DNXEMPIRE-1/eBook-app-Flutter
 
@@ -85,3 +82,63 @@ https://github.com/SX-Code/ebook
 https://github.com/ashu98s/eBooks
 
 https://github.com/abuanwar072/eBook_app_Flutter
+
+firebase
+
+
+
+https://pub.dev/packages/firebase_core
+
+
+
+
+https://pub.dev/packages/firebase_auth
+
+https://pub.dev/packages/language_picker
+
+https://pub.dev/packages/responsive_notebook_background
+
+https://pub.dev/packages/epub_decoder
+
+https://pub.dev/packages/epubviewer2
+
+https://pub.dev/packages/epub_kitty_lib
+
+
+
+
+سه راه حل برای چندزبانگی
+- استفاده از پروژه i18n
+- استفاده از 
+https://pub.dev/packages/flutter_i18n
+https://pub.dev/packages/internationalization
+https://pub.dev/packages/fluintl
+
+
+
+سه راه حل برای چندزبانگی
+- پروژه پیاده شده از ویدیوی آموزشی (ارائه شده توسط سرکار خانم مدرسی)
+- استفاده از پروژه i18n
+- استفاده از 
+https://pub.dev/packages/flutter_i18n
+https://pub.dev/packages/internationalization
+https://pub.dev/packages/fluintl
+
+
+سه راه حل برای چندزبانگی
+- پروژه پیاده شده از ویدیوی آموزشی (ارائه شده توسط سرکار خانم مدرسی)
+- استفاده از پروژه i18n
+- استفاده از 
+https://pub.dev/packages/flutter_i18n
+https://pub.dev/packages/internationalization
+https://pub.dev/packages/fluintl
+
+http://flutter.github.io/samples/
+
+
+
+https://github.com/JideGuru/FlutterEbookApp
+
+
+
+https://github.com/search?q=ebook+language%3ADart&type=repositories&l=Dart&p=1
