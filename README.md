@@ -65,6 +65,11 @@ https://github.com/Supriyanto6543/flutter_ebook_app
 https://github.com/Sixtus6/Ebook
 https://github.com/asepscareer/ebook-reader
 https://github.com/DNXEMPIRE-1/eBook-app-Flutter
-
-
-
+https://github.com/MonsieurZbanowanYY/Ebook-App-UI-Flutter
+https://github.com/AbedElazizShe/Flutter-Ebooks-Shop-Demo
+https://github.com/MrMDrX/eBookStore
+https://github.com/ramialkaro/lit-habit
+https://github.com/SX-Code/ebook
+https://github.com/SX-Code/ebook
+https://github.com/ashu98s/eBooks
+https://github.com/abuanwar072/eBook_app_Flutter
