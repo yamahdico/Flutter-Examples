@@ -56,3 +56,15 @@ $flutter pub get
 این ریپازیتوری‌ها با داشتن پروژه‌های متنوع و آموزش‌های مرتبط، منابع فوق‌العاده‌ای برای یادگیری و گسترش مهارت‌های Flutter هستند.
 
 
+
+
+https://github.com/CloudWzard/EbookApp
+https://github.com/asepscareer/ebook-reader
+https://github.com/rishi115/flutter-Ebook-app
+https://github.com/Supriyanto6543/flutter_ebook_app
+https://github.com/Sixtus6/Ebook
+https://github.com/asepscareer/ebook-reader
+https://github.com/DNXEMPIRE-1/eBook-app-Flutter
+
+
+
