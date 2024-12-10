@@ -59,14 +59,23 @@ $flutter pub get
 
 
 https://github.com/CloudWzard/EbookApp
+
 https://github.com/asepscareer/ebook-reader
+
 https://github.com/rishi115/flutter-Ebook-app
+
 https://github.com/Supriyanto6543/flutter_ebook_app
+
 https://github.com/Sixtus6/Ebook
+
 https://github.com/asepscareer/ebook-reader
+
 https://github.com/DNXEMPIRE-1/eBook-app-Flutter
+
 https://github.com/MonsieurZbanowanYY/Ebook-App-UI-Flutter
+
 https://github.com/AbedElazizShe/Flutter-Ebooks-Shop-Demo
+
 https://github.com/MrMDrX/eBookStore
 https://github.com/ramialkaro/lit-habit
 https://github.com/SX-Code/ebook
