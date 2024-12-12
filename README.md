@@ -71,6 +71,7 @@ https://github.com/DNXEMPIRE-1/eBook-app-Flutter
 
 https://github.com/MonsieurZbanowanYY/Ebook-App-UI-Flutter
 
+
 https://github.com/AbedElazizShe/Flutter-Ebooks-Shop-Demo
 
 https://github.com/MrMDrX/eBookStore
@@ -111,7 +112,9 @@ https://pub.dev/packages/epub_kitty_lib
 - استفاده از پروژه i18n
 - استفاده از 
 https://pub.dev/packages/flutter_i18n
+
 https://pub.dev/packages/internationalization
+
 https://pub.dev/packages/fluintl
 
 
@@ -121,16 +124,20 @@ https://pub.dev/packages/fluintl
 - استفاده از پروژه i18n
 - استفاده از 
 https://pub.dev/packages/flutter_i18n
+
 https://pub.dev/packages/internationalization
+
 https://pub.dev/packages/fluintl
 
 
 سه راه حل برای چندزبانگی
-- پروژه پیاده شده از ویدیوی آموزشی (ارائه شده توسط سرکار خانم مدرسی)
+- پروژه پیاده شده از ویدیوی آموزشی
 - استفاده از پروژه i18n
 - استفاده از 
 https://pub.dev/packages/flutter_i18n
+
 https://pub.dev/packages/internationalization
+
 https://pub.dev/packages/fluintl
 
 http://flutter.github.io/samples/
