@@ -117,19 +117,6 @@ https://pub.dev/packages/internationalization
 
 https://pub.dev/packages/fluintl
 
-
-
-سه راه حل برای چندزبانگی
-- پروژه پیاده شده از ویدیوی آموزشی (ارائه شده توسط سرکار خانم مدرسی)
-- استفاده از پروژه i18n
-- استفاده از 
-https://pub.dev/packages/flutter_i18n
-
-https://pub.dev/packages/internationalization
-
-https://pub.dev/packages/fluintl
-
-
 سه راه حل برای چندزبانگی
 - پروژه پیاده شده از ویدیوی آموزشی
 - استفاده از پروژه i18n
